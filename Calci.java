@@ -4,5 +4,7 @@ public class Calci {
         int a=10;
         int b=12;
         System.out.println("Sum of the numbers is: " + (a+b));
+
+        System.out.println("Subtraction of the number is "+ (a-b));
     }
 }
